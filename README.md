@@ -1,1 +1,17 @@
 # mallacorrelatividadesparacursar
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Malla Ingeniería Industrial 2026</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Malla Ingeniería Industrial – Plan 2026</h1>
+
+<div id="malla"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
